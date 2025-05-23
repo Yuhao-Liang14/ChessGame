@@ -17,7 +17,10 @@
 ### 安装与运行
 
 #### 1. 环境准备
-- 本项目已包含完整 Python 运行环境（位于 `.venv` 目录），无需额外安装 Python 即可运行。
+确保已安装以下依赖：
+- Python 3.x ([Python官网](https://www.python.org/))
+- 安装 `pygame`：pip install pygame
+- 安装 `numpy`：pip install numpy
 
 #### 2. 运行程序
 - 进入项目目录并运行主程序：_display.py
